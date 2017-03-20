@@ -11,6 +11,9 @@ class TestSequenceFunctions(unittest.TestCase):
     def test_something(self):
         pass
 
+    def test_dcouture(self):
+        pass
+
 
 if __name__ == '__main__':
     unittest.main()
